@@ -1,0 +1,13 @@
+{
+  "name": "backend-university-tutor",
+  "version": "1.0.0",
+  "description": "Terminal tutor for the backend-learn curriculum, powered by an OpenRouter model.",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node tutor.js"
+  },
+  "dependencies": {}
+}
